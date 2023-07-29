@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+table{
+  width: 50%;
+}
+ td{
+  padding:6px;
+}
+button{
+  margin: 5px;
+  width: 100%;
+  padding: 15px;
+ font-size: 20px;
+  cursor: pointer;
+  border-radius: 25px;
+  border: 1px solid #ccc; 
+}
+input[type='text']{
+  width: 93%;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  padding: 9px;
+  font-size: 20px;
+  text-align: left;
+}
+#calculator{
+  width: 280px;
+  margin: 70px auto;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 10px rgba(0,0,0,0.1);
+  background-color:#f6c5ca;
+} 
